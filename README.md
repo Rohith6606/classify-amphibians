@@ -1,13 +1,7 @@
 # classify-amphibians
 this is my first repository
  
-Table of Contents
-Introduction	3
-Data preparation and Exploration	3
-Develop and evaluate prediction mode	4
-Critical review and analysis of techniques used.	13
-Conclusion	14
-References	15
+
 
  
 Introduction
